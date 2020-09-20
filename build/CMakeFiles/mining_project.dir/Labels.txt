@@ -1,0 +1,14 @@
+# Target labels
+ mining_project
+# Source files and their labels
+/Users/joe/dfs_token_contract/build/CMakeFiles/mining_project
+/Users/joe/dfs_token_contract/build/CMakeFiles/mining_project.rule
+/Users/joe/dfs_token_contract/build/CMakeFiles/mining_project-complete.rule
+/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-install.rule
+/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-mkdir.rule
+/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-download.rule
+/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-update.rule
+/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-patch.rule
+/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-configure.rule
+/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-build.rule
+/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-test.rule

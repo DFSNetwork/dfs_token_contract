@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/joe/dfs_token_contract/build/CMakeFiles/mining_project"
+		},
+		{
+			"file" : "/Users/joe/dfs_token_contract/build/CMakeFiles/mining_project.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs_token_contract/build/CMakeFiles/mining_project-complete.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-install.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-mkdir.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-download.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-update.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-patch.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-configure.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-build.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs_token_contract/build/mining_project-prefix/src/mining_project-stamp/mining_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mining_project"
+		],
+		"name" : "mining_project"
+	}
+}

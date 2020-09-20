@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joe/dfs_token_contract/include/mining.hpp
+eosio/asset.hpp
+-
+eosio/eosio.hpp
+-
+eosio/system.hpp
+-
+string
+-
+cmath
+-
+
+/Users/joe/dfs_token_contract/src/mining.cpp
+mining.hpp
+-
+
